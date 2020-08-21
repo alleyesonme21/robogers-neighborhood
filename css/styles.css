@@ -1,6 +1,10 @@
 body {
-  background-color: bisque;
+  background-color: rgb(206, 198, 189);
 }
 #output {
-  background-color: cornflowerblue;
+  background-color: rgb(172, 184, 206);
+  font-size: 20px;
+  padding: 20px;
+  text-justify: auto;
+   margin: 20px;
 }
