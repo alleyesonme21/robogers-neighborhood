@@ -9,8 +9,9 @@ for (let i = 0; i <= hood; i++) {
  number[i] = ("Boop");
  } else if (number[i].match("1")) {
    number[i] = ("Beep");
+ } else {
+   number[i];
  }
-
   
 }
 return number;
