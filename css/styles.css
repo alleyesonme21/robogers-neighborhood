@@ -1,10 +1,23 @@
 body {
-  background-color: rgb(206, 198, 189);
+  background-image: url("../img/image.jpg");
+  background-color: #cccccc;
 }
 #output {
   background-color: rgb(172, 184, 206);
-  font-size: 20px;
+  font-size: 30px;
   padding: 20px;
   text-justify: auto;
-   margin: 20px;
+  margin: 20px;
+  display: none;
 }
+h1 {
+  text-align: center;
+  color: blanchedalmond;
+}
+h2 {
+  text-align: center;
+}
+.btn-danger {
+  margin-left: 40%;
+}
+
