@@ -22,6 +22,7 @@ $(document).ready(function() {
     event.preventDefault();
     const inputtedNumber = $("#number").val();
     let result = neighbor(inputtedNumber);
-    $("#output").text(result); 
+    $("#output").text(result);
+    $("#output").show() 
   });
 });
