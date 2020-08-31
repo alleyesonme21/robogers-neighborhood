@@ -9,15 +9,9 @@
 _This application takes a number from a user and returns a range of numbers from 0 to the user inputted number. If a user enters number 1 the website returns with "Beep", number 2 returns "Boop", and 3 returns "Won't you be my neighbor?"_
 
 ### Specs
-| Spec | Input | Output |
-| :-------------     | :------------- | :------------- |
-| **If a user enters a number the output is** | 1 |"Beep" |
-| **If a user enters a number the output is** | 2 | "Boop" |
-| **If a user enters a number the output is**| 13| "Won't you be my neighbor?"|
-| **If a user enters a number the output is**|21|"Boop"|
-| **If a user enters a number the output is**|32|"Won't you be my neighbor?"|
-|
-
+_"If a user enters a number that contains both a 3 and a 1, the rules for 3 take precedence and the entire number is replaced with "Won't you be my neighbor"?_
+* Example Input: 3
+* Example Output: "Won't you be my neighbor"?
 
 ## Setup/Installation Requirements
 
