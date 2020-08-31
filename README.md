@@ -17,6 +17,10 @@ _"If a user enters number 2 , the number is replaced with "Beep"?_
 * Example Input: 2
 * Example Output: "Beep"?
 
+_"If a user enters number 1 , the number is replaced with "Boop"?_
+* Example Input: 1
+* Example Output: "Boop"?
+
 ## Setup/Installation Requirements
 
 * _Open terminal_
@@ -24,8 +28,6 @@ _"If a user enters number 2 , the number is replaced with "Beep"?_
 * _Cd robogers-neighborhood_
 * _Open in VSCode_
 * _index.html in browser chrome to view the page_
-
-
 
 ## Support and contact details
 
