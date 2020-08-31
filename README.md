@@ -10,16 +10,16 @@ _This application takes a number from a user and returns a range of numbers from
 
 ### Specs
 _"If a user enters a number that contains both a 3 and a 1, the rules for 3 take precedence and the entire number is replaced with "Won't you be my neighbor"?_
-* Example Input: 3
-* Example Output: "Won't you be my neighbor"?
+* Input: 3
+* Output: "Won't you be my neighbor"?
 
 _"If a user enters number 2 , the number is replaced with "Beep"?_
-* Example Input: 2
-* Example Output: "Beep"?
+* Input: 2
+* Output: "Beep"?
 
 _"If a user enters number 1 , the number is replaced with "Boop"?_
-* Example Input: 1
-* Example Output: "Boop"?
+* Input: 1
+* Output: "Boop"?
 
 ## Setup/Installation Requirements
 
