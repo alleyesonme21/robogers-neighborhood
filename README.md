@@ -13,6 +13,10 @@ _"If a user enters a number that contains both a 3 and a 1, the rules for 3 take
 * Example Input: 3
 * Example Output: "Won't you be my neighbor"?
 
+_"If a user enters number 2 , the number is replaced with "Beep"?_
+* Example Input: 2
+* Example Output: "Beep"?
+
 ## Setup/Installation Requirements
 
 * _Open terminal_
